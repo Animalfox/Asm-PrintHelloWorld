@@ -1,4 +1,4 @@
-# asm-print-hello-world
+# Asm-PrintHelloWorld
 
 This repository contains an assembly language program that prints
 "Hello, World!" to the standard output using the Linux syscall interface.
